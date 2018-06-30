@@ -4,13 +4,6 @@
 
 ```
 brew install gnu-cobol
-
-# From:
-brew install python3
-brew install pyqt5 --with-python3
-
-pip3 install hackedit --pre --upgrade
-pip3 install hackedit-cobol
 ```
 
 Use [VSCode](https://code.visualstudio.com/) and install the COBOL extension for syntax highlighting.
